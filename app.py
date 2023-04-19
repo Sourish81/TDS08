@@ -9,7 +9,7 @@ st.write("""
 
 st.header('Enter three numbers and find the largest among them.')
 St.number_input()
-Input 3 numbers
+#Input 3 numbers
 
 def compute_max(a,b,c):
     l=list([a,b,c])
