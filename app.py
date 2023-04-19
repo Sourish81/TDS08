@@ -4,9 +4,7 @@ from sklearn import datasets
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 import pickle
-Print(""Find the Largest Number
-"")
-
+Print(Find the Largest Number)
 
 st.header('Enter three numbers and find the largest among them.')
 #St.number_input()
