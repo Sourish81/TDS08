@@ -1,2 +1,6 @@
+
+!pip install streamlit -q
 import streamlit as st
-def longest_no(a,b,c)
+def compute_max(a,b,c):
+    l=list([a,b,c])
+    return max(l)
